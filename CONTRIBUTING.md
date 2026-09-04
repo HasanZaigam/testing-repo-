@@ -7,19 +7,15 @@ Thank you for your interest in contributing to this repository.
 1.  Fork the repository.
 2.  Clone your forked repository:
     ```bash
-    git clone https://github.com/your-username/testing-repo-.git
+    git clone https://github.com/HasanZaigam/testing-repo-.git
     ```
 3.  Make your changes.
 4.  Submit a pull request.
 
-## Issues
+## Testing and Quality
 
-If you find any bugs or have any feature requests, please open an issue in this repository.
-
-## Pull Requests
-
-Please ensure that your pull requests are well-documented and follow the existing code style.
+Currently, there are no automated tests or linting tools defined for this repository. We ask that all contributors manually review their code for correctness, consistency, and readability before submitting a pull request.
 
 ## Code of Conduct
 
-By participating in this project, you are expected to uphold our code of conduct.
+We are committed to providing a friendly, safe, and welcoming environment for all. Please follow the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) when participating in this project.
