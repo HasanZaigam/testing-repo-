@@ -28,3 +28,7 @@ To contribute to or extend this testing repository:
 
 ## Usage
 The repository is designed to be used in conjunction with the AI Task Manager. Follow the instructions provided in the AI Task Manager's main documentation to initiate testing workflows against this codebase.
+
+## QA test
+
+This repo is used for GetItDoneToday QA.
